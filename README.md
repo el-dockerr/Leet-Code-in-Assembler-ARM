@@ -1,7 +1,6 @@
 # Leet Code in Assembler (ARM)
 ## Written by Swen Kalski
 
-
 The Repository have LeetCode problems solved twice: once in **C++** and once in **ARM64 (AArch64) assembly**.
 
 This is a nice repo, to keep my knowledge about ARM Assembly alive and keep me busy when I'm bored.
