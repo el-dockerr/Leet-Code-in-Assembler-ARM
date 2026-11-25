@@ -210,4 +210,5 @@ Set these environment variables before calling the script, e.g. `set QEMU_CPU=co
 | # | Problem | Difficulty | C++ | ASM | Notes |
 |---:|---|---|:---:|:---:|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ | ✅ | C++: hash map O(n) · ASM: brute force O(n²) |
+| 2 | [Add two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ✅ | ✅ | C++: Graph O(max(m, n)) · ASM: same approach, same time |
 | | | | | | |
